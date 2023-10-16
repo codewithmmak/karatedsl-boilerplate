@@ -30,7 +30,7 @@
 		<dependency>
 			<groupId>com.intuit.karate</groupId>
 			<artifactId>karate-core</artifactId>
-			<version>1.4.0</version>
+			<version>1.4.1</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/com.intuit.karate/karate-junit5 -->
